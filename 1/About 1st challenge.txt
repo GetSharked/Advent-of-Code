@@ -1,0 +1,2 @@
+In this challenge we have an imput file with many numbers.
+We need to find 2 numbers, which sum equals 2020 and then multiply them.
